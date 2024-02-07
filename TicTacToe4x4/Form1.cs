@@ -110,7 +110,7 @@ namespace TicTacToe4x4
                 steuerungAusschalten();
             }
 
-            //Gewinner Anzeige + Ausscahlten der Steuerung
+            //Gewinner Anzeige + Ausschalten der Steuerung
             if (spielerVerloren == true)
             {
                 String gewinner = "";
